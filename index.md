@@ -2,6 +2,4 @@
 
 {{indexmenu_n>1}}
 
-[register/register\_flow](/account/register/register_flow)
-
-[register/register\_agreement](/account/register/register_agreement)
+{{indexmenu>:account:register#1 | nsort dsort msort}}
